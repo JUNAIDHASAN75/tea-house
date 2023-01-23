@@ -1,0 +1,15 @@
+.tag{
+    position: relative;
+}
+.tags{
+    position: absolute;
+    bottom: 10px;
+    left:70px;
+}
+.notification{
+    position: relative;
+}
+.notify{
+    position: absolute;
+    top: 130px;
+}
